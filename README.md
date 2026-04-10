@@ -7,6 +7,6 @@ A simple and elegant web application that monitors your text input character cou
 - Visual alerts when you exceed the limit (red border and counter) ⚠️
 - Clean, responsive design with a modern UI 🎨
 
-🔗 **Live Demo:** [https://iam269.github.io/Character-Limit/](https://iam269.github.io/Character-Limit/)
+🔗 **Live Demo:** [https://itsiamdev.github.io/Character-Limit/](https://itsiamdev.github.io/Character-Limit/)
 
 Perfect for social media posts, tweets, or any text input where character limits matter! 💬
